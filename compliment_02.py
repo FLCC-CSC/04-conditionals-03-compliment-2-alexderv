@@ -1,7 +1,7 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
+# NAME: Alex Dervenis
+# DATE: 10/5/2025
 # BRIEF DESCRIPTION:  
 
 
@@ -15,7 +15,13 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
+r = input('Would you like a compliment?')
+if r == 'yes':
+    print('You have wonderful eyes.')
+    print('Thank you for playing.')
+else:
+    print('No compliment for you!')
+    print('Thank you for playing.')
 
 
 
